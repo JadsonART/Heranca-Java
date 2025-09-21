@@ -6,7 +6,7 @@ import modelo.Violao;
 
 public class Main {
     public static void main(String[] args) {
-        Instrumento violao = new Violao("Violão Clássico", "Cordas", 6);
+        Instrumento violao = new Violao("Violao Classico", "Cordas", 6);
         Instrumento piano = new Piano("Piano de Cauda", "Teclas", 88);
 
         List<Instrumento> instrumentos = new ArrayList<>();
