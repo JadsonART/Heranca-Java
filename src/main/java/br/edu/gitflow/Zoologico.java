@@ -1,7 +1,7 @@
 import modelo.Cachorro;
 import modelo.Gato;
 
-public class Main{
+public class Zoologico{
   public static void main(String[] args){
 
     Cachorro cachorro = new Cachorro("Barto", 5, "Lulu da Pomerânia");
